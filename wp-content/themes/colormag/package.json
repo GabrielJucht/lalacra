@@ -1,0 +1,25 @@
+{
+  "name": "lacra",
+  "version": "1.0.0",
+  "description": "== COLORMAG  ==",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/GabrielJucht/lalacra.git"
+  },
+  "author": "GJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/GabrielJucht/lalacra/issues"
+  },
+  "homepage": "https://gitlab.com/GabrielJucht/lalacra#README",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-concat-css": "^0.3.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
