@@ -87,9 +87,8 @@ $( document ).ready(function() {
 
         })
     
-    }
 
-   
+    }
 
 
 

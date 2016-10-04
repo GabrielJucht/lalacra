@@ -277,10 +277,10 @@ progress[value]::-webkit-progress-value{
 
 /*BARRA DERECHA*/
 
-.video-home {
-	float:left;
-	margin-bottom: 30px;
+.home #youtube_embed_widget-3 {
+	display:block;
 }
+
 
 .widget_300x250_advertisement {
 	float:left;
@@ -318,8 +318,6 @@ footer .copyright p {
 .footer-socket-wrapper {
 	background-color:#232323;
 }
-
-
 
 /*POSTS*/
 
