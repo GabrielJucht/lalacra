@@ -50,7 +50,7 @@ $( document ).ready(function() {
        // Traduccion al español del boton de Facebook
 
        $('li.sharify-btn-facebook .sharify-title').html("compartir");
-    }
+    
 
        //progress bar 
 
@@ -87,6 +87,7 @@ $( document ).ready(function() {
 
         })
     
+    }
 
    
 
