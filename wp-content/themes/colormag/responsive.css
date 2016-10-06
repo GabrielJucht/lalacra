@@ -396,6 +396,10 @@
 		height: auto;
 	}
 
+	.single-post .extracto p {
+		font-size: 16px;
+	}
+
 
 		
 }
