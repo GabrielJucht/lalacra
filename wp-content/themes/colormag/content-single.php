@@ -44,6 +44,7 @@
    	<?php colormag_entry_meta(); ?>
      <div class="clearfix separador"></div>
    	<div class="entry-content clearfix">
+     <div class="extracto"><?php the_excerpt(); ?></div>
    		<?php
    			the_content();
 
