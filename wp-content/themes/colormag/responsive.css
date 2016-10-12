@@ -52,6 +52,12 @@
 		height:auto;
 	}
 
+	#secondary aside#easy_facebook_page_plugin-3,
+	#secondary aside#easy_facebook_page_plugin-3 div.fb-page, 
+	#secondary aside#easy_facebook_page_plugin-3 iframe {
+		display:none;	
+	} 
+
 	
 	
 }
@@ -114,10 +120,6 @@
 		float:left;
 	}
 
-	.widget_300x250_advertisement {
-		float:right;
-	}
-
 	.widget_tag_cloud {
 		float:left;
 	}
@@ -133,7 +135,7 @@
 
 	#secondary aside.widget {
 		padding:0 10px;
-		float:left;
+		width:45%;
 	}
 
 	
@@ -276,14 +278,6 @@
 		right:0;
 	}
 
-	.video-home {
-		display:none;
-	}
-
-	.widget_easy_facebook_page_plugin {
-		display:none;
-	}
-
 	article .entry-content p {
 		font-size:15px;
 		line-height: 22px;
@@ -344,6 +338,7 @@
 	#secondary aside.widget {
 		padding: 0 0 20px;
     	margin: 0;
+		width:100%;
 	}
 
 	.footer-widgets-area {
@@ -397,14 +392,6 @@
 		height: auto;
 	}
 
-	.single-post .extracto p {
-		font-size: 16px;
-	}
-
-	#youtube_embed_widget-3,
-	#youtube_embed_widget-3 iframe	 {
-		display: none;
-	}
 
 		
 }
