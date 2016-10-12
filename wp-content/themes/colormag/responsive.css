@@ -394,6 +394,11 @@
 		height: auto;
 	}
 
+	#secondary #youtube_embed_widget-3,
+	#secondary #youtube_embed_widget-3 iframe {
+		display:none;
+	}
+
 
 		
 }
