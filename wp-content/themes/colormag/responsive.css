@@ -136,6 +136,7 @@
 	#secondary aside.widget {
 		padding:0 10px;
 		width:45%;
+		float:left;
 	}
 
 	
@@ -339,6 +340,7 @@
 		padding: 0 0 20px;
     	margin: 0;
 		width:100%;
+		float:none;
 	}
 
 	.footer-widgets-area {
