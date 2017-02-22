@@ -115,9 +115,6 @@ wp_head();
               style="display:inline-block;width:728px;height:90px"
               data-ad-client="ca-pub-5206566395845628"
               data-ad-slot="5669698395"></ins>
-          <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
 						<?php
 						if( is_active_sidebar( 'colormag_header_sidebar' ) ) {
 						?>
