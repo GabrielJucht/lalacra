@@ -112,7 +112,7 @@ wp_head();
 					<div id="header-right-section">
           <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
           <!-- Banner Header 2 -->
-          <ins class="adsbygoogle"
+          <ins class="adsbygoogle bannerheader"
               style="display:block"
               data-ad-client="ca-pub-5206566395845628"
               data-ad-slot="5558620399"
