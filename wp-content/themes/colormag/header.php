@@ -116,7 +116,7 @@ wp_head();
               style="display:block"
               data-ad-client="ca-pub-5206566395845628"
               data-ad-slot="5558620399"
-              data-ad-format="auto"></ins>
+              data-ad-format="horizontal"></ins>
           <script>
           (adsbygoogle = window.adsbygoogle || []).push({});
           </script>
