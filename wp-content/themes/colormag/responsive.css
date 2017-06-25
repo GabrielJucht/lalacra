@@ -9,9 +9,6 @@
     #header-left-section {
         width: 215px;
     }
-    .widget_smartslider3 .n2-ss-widget {
-        display: none !important;
-    }
     .home #content .post .article-content .entry-title,
     .archive #content .post .article-content .entry-title,
     .search #content .post .article-content .entry-title {
@@ -50,6 +47,12 @@
     #secondary aside#easy_facebook_page_plugin-3 div.fb-page,
     #secondary aside#easy_facebook_page_plugin-3 iframe {
         display: none;
+    }
+    .widget_smartslider3 div#n2-ss-2 .n2-font-1009-hover {
+        font-size: 30px;
+    }
+    .n2-ss-slider#n2-ss-2 .n2-ss-widget div {
+        font-size: 12px;
     }
 }
 
@@ -324,5 +327,8 @@
     .widget_smartslider3 div#n2-ss-2 .n2-font-1009-hover {
         font-size: 26px;
         margin: 30% auto 0;
+    }
+    .n2-ss-slider#n2-ss-2 .n2-ss-widget div {
+        display: none;
     }
 }
