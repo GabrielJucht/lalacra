@@ -16,6 +16,10 @@
     .fa.search-top {
         right: 0;
     }
+    .not-found .search-wrap button {
+        right: 0;
+        position: relative;
+    }
     .home #content .post .article-content .entry-title,
     .archive #content .post .article-content .entry-title,
     .search #content .post .article-content .entry-title {
@@ -126,6 +130,9 @@
         padding: 0 10px;
         width: 45%;
         float: left;
+    }
+    #content .no-results.not-found {
+        padding-bottom: 30px;
     }
 }
 
