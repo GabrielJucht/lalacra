@@ -9,6 +9,13 @@
     #header-left-section {
         width: 215px;
     }
+    .main-navigation a {
+        font-size: 12px;
+        padding: 11px 12px;
+    }
+    .fa.search-top {
+        right: 0;
+    }
     .home #content .post .article-content .entry-title,
     .archive #content .post .article-content .entry-title,
     .search #content .post .article-content .entry-title {
