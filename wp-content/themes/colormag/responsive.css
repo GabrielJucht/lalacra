@@ -137,6 +137,9 @@
 }
 
 @media only screen and (max-width: 736px) {
+    .header .googlepublisherpluginad {
+        display: none;
+    }
     #header-right-section {
         display: none;
     }
