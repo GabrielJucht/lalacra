@@ -110,8 +110,8 @@ wp_head();
 						</div><!-- #header-text -->
 					</div><!-- #header-left-section -->
 					<div id="header-right-section">
-          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-          <!-- Banner Header 2 -->
+         <!--<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+          
           <ins class="adsbygoogle bannerheader"
               style="display:block"
               data-ad-client="ca-pub-5206566395845628"
@@ -119,7 +119,7 @@ wp_head();
               data-ad-format="horizontal"></ins>
           <script>
           (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
+          </script>-->
 						<?php
 						if( is_active_sidebar( 'colormag_header_sidebar' ) ) {
 						?>
